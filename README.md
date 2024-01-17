@@ -7,6 +7,6 @@
 
 $$吸着率 = (1-吸着濃度/初期濃度)\times 100$$
 
-$$吸着量[\textrm{g}/g\cdot LDH] = (吸着率)/100 \times (初期濃度)\times(体積)/(LDH質量)$$
+$$吸着量[\textrm{g}/\textrm{g\cdot LDH}] = (吸着率)/100 \times (初期濃度)\times(体積)/(LDH質量)$$
 
 データをExcelにまとめる際は一つのサンプルにつき一行にまとめ，列を下にコピーするとよい．
